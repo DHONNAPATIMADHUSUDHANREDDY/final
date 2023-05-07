@@ -1,0 +1,43 @@
+
+
+body {
+  background-color:#282846;
+
+}
+.im{
+
+  height:300px;
+  border-radius: 15%;
+}
+.im2{
+
+  height:300px;
+  border-radius: 100%;
+
+}
+.var{
+  font-family: 'Dancing Script', cursive;
+color:#FFB830;
+
+font-size: 28px;
+}
+.tab{
+  text-align: center;
+  margin-top: 12%;
+
+
+}
+.rm{
+  width:150px;
+  height:150px;
+background-image:url('photos/album2.jpeg');
+transition:all 1s linear;
+}
+.rm:hover{
+  width:300px;
+  height:450px;
+  background-image: url('photos/rftree.jpg');
+  background-repeat: no-repeat;
+  background-size: contain;
+
+}

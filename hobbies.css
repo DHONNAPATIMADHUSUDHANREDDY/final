@@ -1,0 +1,26 @@
+
+*{
+background-color:#070A52;
+}
+.row{
+  text-align:center;
+
+}
+.md{
+  font-family: 'Merriweather', serif;
+color:#fff;
+  text-align: center;
+}
+
+.bh{
+  opacity:0;
+}
+
+.sh:hover .bh{
+  background-color: #F97B22;
+  opacity:1;
+  width:80%;
+  margin-left: 30px;
+  font-family: 'Merriweather', serif;
+
+}

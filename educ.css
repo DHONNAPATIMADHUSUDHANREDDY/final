@@ -1,0 +1,49 @@
+
+.ms{
+  background-color:#245953;
+  border: 4mm ridge rgba(211, 220, 50, .6);
+    color:#fff;
+
+}
+.msr{
+background-color:#245953;
+  border: 4mm ridge rgba(211, 220, 50, .6);
+    color:#fff;
+}
+.msre{
+background-color:#245953;
+    border: 4mm ridge rgba(211, 220, 50, .6);
+    color:#fff;
+}
+.ns{
+  margin-top: 70px;
+
+}
+.sp{
+  color:YELLOW;
+
+}
+
+.QU{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  margin-top: 70px;
+  color:#fff;
+  font-size: 40px;
+}
+.note{
+  text-align: center;
+/*  background-color: #EB455F;*/
+  color:#fff;
+  margin-top: 100px;
+  margin-bottom: 50PX;
+  font-family: sans-serif;
+
+
+}
+
+.KL{
+  font-family: cursive;
+  font-size: 20PX;
+  color: #FFF;
+}

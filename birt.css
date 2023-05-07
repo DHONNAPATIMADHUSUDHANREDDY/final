@@ -1,0 +1,42 @@
+body{
+background-color: black;
+}
+.ce{
+  text-align:center;
+}
+.row{
+  margin-top: 50px;
+  padding-top: 100px;
+
+}
+.pa{
+padding-top: 50px;
+color:#3C79F5;
+font-family: 'Noto Sans', sans-serif;
+line-height: 35px;
+}
+.im{
+  border-radius:10%;
+  transition: all 1s linear;
+
+}
+.im:hover{
+  width:80%;
+  height:300px;
+  border-radius: 20%;
+
+}
+.re{
+font-family: 'Dancing Script', cursive;
+color:#fff;
+font-size: 40px;
+text-align: center;
+padding-top:80px;
+}
+.bi{
+  font-size: 30px;
+  color:#FF6D60;
+  font-style: normal;
+  font-weight: bold;
+
+}
